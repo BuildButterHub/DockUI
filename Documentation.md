@@ -19,13 +19,16 @@ local Window = DockUI:UI("Ui Library")
 
 - Create Tab
 ```lua
-local tab1 = DockUI:tab("Tab Name", "Icon ID")
+local tab1 = DockUI:tab("Tab Name", "Icon")
 ```
 
-| Numbering | Type    | Default      |
-|-----------|---------|--------------|
-| 1         | name    | "UI Library" |
-| 2         | icon    | nil          |
+| Numbering | Type    | Default       |
+|-----------|---------|---------------|
+| 1         | name    | "UI Library"  |
+| 2         | icon    |95423264010702 |
 
 <hr>
+
+# Elements
+
 
