@@ -80,7 +80,7 @@ UpdateToggle('Toggle', true)
 
 - Create Slider
 ```lua
-Select1:Slider("Slider", 0, 120, 1, 30, function(Value)
+Select1:Slider("Slider", 0, 120, 1, 0, function(Value)
     game.Workspace.Camera.FieldOfView = Value
 end)
 ```
